@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MagnificentDMB
 - 👀 I’m interested in HTML, CSS & C programming
-- 🌱 I’m currently learning C programming
+- 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at magnificentdmb@gmail.com
 
